@@ -13,7 +13,7 @@ What we have done differently:
 * We first learned tensorflow from: https://learningtensorflow.com/
 * We then implemented the working of the code using tensorflow.
 * We also used the flickr API we learned in CNN lab to generate test data. This data is stored in [texture_output](https://github.com/kushshah289/introml-project/tree/master/texture_outer/texture) file.
-* We also treid to implement different optimizers like the adam optimizer but we were unable to solve the errors. This is in [trial.ipynb](https://github.com/kushshah289/introml-project/trial.ipynb)
+* We also treid to implement different optimizers like the adam optimizer but we were unable to solve the errors. This is in [trial.ipynb](https://github.com/kushshah289/introml-project/blob/master/trial.ipynb)
 
 References:
 ===========
