@@ -18,7 +18,8 @@ What we have done differently:
 
 References:
 ===========
-We have referred the code from here: https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/15_Style_Transfer.ipynb
+We have referred the code from here: https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/15_Style_Transfer.ipynb <br>
+We also studied this paper to know how neural style transfer works, "Image style transfer using convolution neural networks" https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf
 
 Contributors:
 =============
