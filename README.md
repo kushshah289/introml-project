@@ -37,5 +37,9 @@ Here, the weight of style-image is very high as compared to the weight of the co
 ============================================================================================
 ![alt text](https://github.com/kushshah289/introml-project/blob/master/readme%20file/3_1.PNG)
 ![alt text](https://github.com/kushshah289/introml-project/blob/master/readme%20file/3_2.PNG)
-![alt text](https://github.com/kushshah289/introml-project/blob/master/readme%20file/3_3.PNG)
+![alt text](https://github.com/kushshah289/introml-project/blob/master/readme%20file/3_3.PNG)<br>
+<br>
+Flow Graph
+==========
+![alt text](https://github.com/kushshah289/introml-project/blob/master/readme%20file/graph.png)
 
