@@ -14,6 +14,7 @@ What we have done differently:
 * We then implemented the working of the code using tensorflow.
 * We also used the flickr API we learned in CNN lab to generate test data. This data is stored in [texture_output](https://github.com/kushshah289/introml-project/tree/master/texture_outer/texture) file.
 * We also treid to implement different optimizers like the adam optimizer but we were unable to solve the errors. This is in [trial.ipynb](https://github.com/kushshah289/introml-project/blob/master/trial.ipynb)
+* We have also added the flow graph of our project at the end of this readme file.
 
 References:
 ===========
@@ -21,7 +22,9 @@ We have referred the code from here: https://github.com/Hvass-Labs/TensorFlow-Tu
 
 Contributors:
 =============
-rcm445 nd1292 ks4437
+Raj Mehta - rcm445 https://github.com/rajm2611 <br>
+Nitish Dabas - nd1292 (https://github.com/N-dabas) <br> 
+Kush Shah - ks4437 <br> 
 
 Here, we have used the optimal setting for content-image and style-image.
 =========================================================================
